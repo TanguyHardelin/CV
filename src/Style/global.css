@@ -1,0 +1,104 @@
+.verticalCenter {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 400px;
+}
+
+.mediumTitle{
+    text-align: center;
+    width: 100%;
+}
+
+.text{
+    text-align: justify;
+}
+.vertical-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+hr {
+    border-top: 1px solid #BBB;
+    width:"100%"
+}
+
+#outer {
+    width: 100%;
+    text-align: center;
+}
+
+#inner {
+    display: inline-block;
+}
+
+
+/*
+    Commun
+*/
+.itemTitle{
+    text-align: center;
+    width:100%;
+}
+
+/*
+    Experience style:
+*/
+.experienceTitle{
+    text-align: left;
+    width: 100%;
+}
+.experienceCol{
+    border-left:1px solid black;
+}
+
+@media screen and (max-width: 992px){
+    .experienceCol{
+        border-right: none;
+    }
+}
+
+.experienceElement{
+    width:50%;
+    margin-right: 0px;
+    margin-left: 100%;
+}
+
+@media screen and (max-width: 992px){
+    .experienceElement{
+        width:100%;
+        margin-right: 0px;
+        margin-left: 100%;
+    }
+}
+
+
+/*
+    Education style:
+*/
+.educationTitle{
+    text-align: left;
+    width: 100%;
+}
+
+.educationCol{
+    border-right:1px solid black;
+}
+
+@media screen and (max-width: 992px){
+    .educationCol{
+        border-left: none;
+    }
+}
+.educationElement{
+    width:25%;
+    margin-right: 100%;
+    margin-left: 0px;
+}
+
+@media screen and (max-width: 992px){
+    .educationElement{
+        width:100%;
+        margin-right: 100%;
+        margin-left: 0px;
+    }
+}

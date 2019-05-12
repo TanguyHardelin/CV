@@ -1,0 +1,514 @@
+{
+    "CareerDevelopment":{
+        "fr":{
+            "title":"Mon cursus",
+            "elements":[
+                {
+                    "title":"Formation académique",
+                    "color":"success",
+                    "elements":[
+                        {
+                            "contentSize":9,
+                            "date":"2018-2019",
+                            "title":"Double diplôme à l'Université du Québec à Chicoutimi - Maîtrise en informatique",
+                            "subTitle":"Maitrise en informatique (jeux videos).",
+                            "localisation":"Chicoutimi, Canada",
+                            "content":"Après avoir beaucoup appris dans ma formation d’ingénieur généraliste, j’ai choisi l’Université du Québec à Chicoutimi (UQAC) pour sa formation innovante permettant une ouverture et une spécialisation en informatique. Cette spécialisation dans les domaines des intelligences artificielles et de la conception de jeux vidéos m’a permis de parfaire ma formation et ainsi d’être opérationnel pour la vie active."
+                        },
+                        {
+                            "contentSize":12,
+                            "date":"2016-2019",
+                            "title":"Ecole Nationale d'Ingénieurs de Brest (ENIB) - Cycle d'ingénieur",
+                            "subTitle":"Cycle ingénieur.",
+                            "localisation":"Brest, France",
+                            "content":"Ce cursus d’ingénieur généraliste en informatique, électronique et mécatronique m’a beaucoup apporté tant sur le plan humain que technique. Il m’aura entre autres permis d’être opérationnel sur des sujets pluridisciplinaires comme sur des sujets spécifiques."
+                        },
+                        {
+                            "contentSize":7,
+                            "date":"2014-2016",
+                            "title":"Ecole Nationale d'Ingénieurs de Brest (ENIB) - Classe préparatoire intégrée",
+                            "subTitle":"Cycle préparatoire intégré.",
+                            "localisation":"Brest, France",
+                            "content":"Classe préparatoire intégrée. Cette formation mêlant mathématiques, physique, informatique, électronique et mécatronique m’aura permis d'acquérir les connaissances de base nécessaire à l’ingénieur."
+                        },
+                        {
+                            "contentSize":0,
+                            "date":"2011-2014",
+                            "title":"Lycée Polyvalent Émile Littré",
+                            "subTitle":"Baccalauréat Scientifique.",
+                            "localisation":"Avranches, France",
+                            "content":"Baccalauréat sientifique"
+                        }
+                    ]
+                },
+                {
+                    "title":"Expériences professionnelles",
+                    "color":"dark",
+                    "elements":[
+                        {
+                            "contentSize":7,
+                            "date":"Février - Juillet 2018",
+                            "title":"Safran electronics and defense - Stage assistant ingénieur",
+                            "subTitle":"Stage assistant ingénieur",
+                            "localisation":"Paris, France",
+                            "content":"Ce stage a porté sur la création de deux applications mobiles destinées aux tireurs d’élites et à leurs coéquipiers. Le rôle de ces applications étaient d’aider les militaires dans leurs missions quotidiennes. Afin de réaliser les différentes tâches leur étant confiées ces applications devaient présenter un certain nombre de fonctionnalités techniques comme la communication entre applications, la communication avec des équipements militaires, le calcul de différents éléments de tirs etc ... Ce stage aura été pour moi l’occasion de perfectionner mes compétences techniques et humaines sur un sujet me passionnant.",
+                            "skills":"API Rest, programmation embarquée, programmation mobile multiplatforme.",
+                            "skillsTitle":"Compétences acquises: "
+                        },
+                        {
+                            "contentSize":7,
+                            "date":"Juin-Juillet-Août 2017",
+                            "title":"Lanestel - Stage technicien",
+                            "subTitle":"Stage technicien",
+                            "localisation":"Brest, France",
+                            "content":"Ce stage a porté sur la problématique de supervision des installations d’un FAI (Fournisseur d’Accès Internet). En effet, l’entreprise possédait de nombreux locaux avec de nombreuses installations (switch, routeur, serveurs, etc…) mais ne possédait aucun moyen de savoir quel était l’état de ses équipements ni dans quel local se situait ses employés. Mon stage a d’abord consisté à la création d’un outil permettant la visualisation de l’ensemble des états des équipements de l’entreprise à tout instant. Pour simplifier la gestion des locaux de l’entreprise, la deuxième partie de mon stage a consisté à la création d’une serrure connectée NFC. Cette serrure permettant une meilleure régulation de l’accès aux équipements de l’entreprise, a également permis de compléter la première partie de mon stage en proposant une visualisation de l’occupation des installations de l’entreprise.",
+                            "skills":"Travail en autonomie, programmation WEB, programmation embarquée.",
+                            "skillsTitle":"Compétences acquises: "
+                        },
+                        {
+                            "contentSize":0,
+                            "date":"Janvier 2016",
+                            "title":"CERVVAL - Stage ouvrier",
+                            "subTitle":"Stage opérateur",
+                            "localisation":"Brest, France",
+                            "content":"Mise en place d’un cloud pour l’entreprise. Création d’un outil de génération automatique de plaquette commerciale pour les différents produits de l’entreprise.",
+                            "skills":"Méthode Agile, programmation WEB.",
+                            "skillsTitle":"Compétences acquises: "
+                        }
+                    ]
+                }
+            ]
+        },
+        "en":{
+    
+        }
+    },
+    "Contact":{
+        "fr":{
+            "title":"Contact",
+            "email":"Email",
+            "emailHint":"example@gmail.com",
+            "name":"Nom",
+            "nameHint":"NOM Prénom",
+            "enterprise":"Entreprise",
+            "object":"Objet",
+            "content":"Contenu du message",
+            "send":"Envoyer",
+            "sendToRavenTransition":"Envoi en cours",
+            "sended":"Envoyé !",
+            "alert":"Merci de renseigner tous les champs marqué en rouge"
+        },
+        "en":{
+    
+        }
+    },
+    "GlobalNavBar":{
+        "fr":{
+            "user":"Utilisateurs",
+            "logs":"Logs",
+            "request":"Requettes",
+            "disconnect":"Déconnection",
+            "all_language":[
+                {"name":"Français","icon":"fr","action":"fr"},
+                {"name":"Anglais","icon":"en","action":"en"}
+            ]
+        },
+        "en":{
+            "user":"Users",
+            "logs":"Logs",
+            "request":"Requests",
+            "disconnect":"Disconnect",
+            "all_language":[
+                {"name":"English","icon":"en","action":"en"},
+                {"name":"French","icon":"fr","action":"fr"}
+                
+            ]
+        }
+    },
+    "Header":{
+        "fr":{
+            "name":"Tanguy Hardelin",
+            "title":"Elève ingénieur ENIB & Etudiant à l'UQAC"
+        },
+        "en":{
+            
+        }
+    },
+    "Introduction":{
+        "fr":{
+            "title":"Introduction",
+            "contactTitle":"Coordonees",
+            "email":"tanguy.hardelin@gmail.com",
+            "phone":"+33 6 18 32 51 01",
+            "address":"543 Boulevard Talbot Chicoutimi, Québec, Canada",
+            "github":"TanguyHardelin",
+            "githubLink":"https://github.com/TanguyHardelin",
+            "linkedin":"TanguyHardelin",
+            "linkedinLink":"https://fr.linkedin.com/in/tanguy-hardelin-1687a8136",
+            "downloadResume":"Télécharger mon CV",
+            "contact":"Me contacter",
+            "CVLink":"/ressources/CVTanguyHardelinFr.pdf",
+            "introduction":"Après avoir suivi deux années de classe préparatoire intégrée à l’Ecole Nationale d'ingénieurs  de Brest (ENIB) j’ai choisi de finir mon cursus d’ingénieur à l’Université du Québec à Chicoutimi (UQAC). Fort de ma formation généraliste en informatique, électronique et mécatronique, j’ai choisi de me spécialiser en informatique et plus spécialement dans les domaines de l'intelligence artificielle et de la conception de jeux vidéos. Terminant mes études, je suis actuellement en recherche d’un stage ingénieur. Ce stage d’une durée de 20 à 25 semaines pourra s'effectuer à partir du 15 juillet 2019."
+        },
+        "en":{
+            
+        }
+    },
+    "Projects":{
+        "fr":{
+            "title":"Mes projets",
+            "more":"Voir plus",
+            "github":"Github",
+            "description":"Description",
+            "technologies":"Technologies utilisées",
+            "projets":[
+                [{
+                    "title":"Planetarium en réalité virtuelle",
+                    "spaceSize":1,
+                    "subTitle":"réalité virtuelle",
+                    "github":"https://github.com/TanguyHardelin/Planetarium_interactif.git",
+                    "imgSrc":"/images/PlanetariumVR/saturne.png",
+                    "descriptionShort":"Ce projet propose une simulation des règles de la physique et de la gravitation en réalité virtuelle. L'objectif est de permettre à des enfants de comprendre les principales lois régissant le système solaire et de se 'confronter' à celles-ci.",
+                    "description":"Ce projet propose une simulation des règles de la physique et de la gravitation en réalité virtuelle. L'objectif est de permettre à des enfants de comprendre les principales lois régissant le système solaire et de se 'confronter' à celles-ci. Il est ainsi possible de s'entrainer au lancement d'astéroides, de visiter les différentes planettes du système solaire, de comprendre le phénomène des éclipses ect ...  ",
+                    "mediaList":[
+                        
+                        {
+                            "src": "/images/PlanetariumVR/mercure.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/PlanetariumVR/venus.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/PlanetariumVR/terre.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/PlanetariumVR/mars.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/PlanetariumVR/jupiter.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/PlanetariumVR/saturne.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/PlanetariumVR/uranus.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/PlanetariumVR/neptune.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/PlanetariumVR/pluton.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/PlanetariumVR/system.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/PlanetariumVR/menu.png",
+                            "isVideo":false
+                        }
+                    ],
+                    "technologies":[
+                        "Unreal Engine"
+                    ]
+                },
+                {
+                    "title":"Raven",
+                    "spaceSize":1,
+                    "subTitle":"",
+                    "github":"https://github.com/TanguyHardelin/Raven.git",
+                    "imgSrc":"/icons/raven.png",
+                    "descriptionShort":"Raven est un projet prototype visant à uniformiser le back-end de toute les applications ayant besoin d’un serveur Node.JS. Raven peut ainsi être vu comme une somme de services disponibles pour les applications. L’application n’ayant qu'à appeler le service dont elle a besoin sans se soucier de comment cela a été développé.",
+                    "description":"Raven est un projet prototype visant à uniformiser le back-end de toute les applications ayant besoin d’un serveur Node.JS. Raven peut ainsi être vu comme une somme de services disponibles pour les applications. L’application n’ayant qu'à appeler le service dont elle a besoin sans se soucier de comment cela a été développé. Pour illustrer, traditionnellement quand une application a besoin de communiquer avec une base de données SQL, le développeur doit réécrire le code permettant de communiquer avec ladite base de données SQL. Cela peut être long, rébarbatif, contre productif et induisant une perte de temps pour le développeur. La philosophie de Raven est de supprimer ce gaspillage de temps inutile, chaque fonctionnalité est vue comme un service accessible par toute les applications supportées par Raven. Pour reprendre, dans l’exemple précédent Raven possède déjà un service permettant de dialoguer avec les bases de données SQL. Avec Raven le développeur aurait juste eu besoin de faire appel au service de dialogue correspondant sans avoir à tout re-développer. Sur ce principe, différents services sont déjà disponibles dans Raven comme la gestion des dialogue avec les API Facebook et Gmail, la gestion des bases de données SQL, la gestion de l’authentification d’utilisateur etc…",
+                    "mediaList":[
+                        {
+                            "src": "/icons/raven.png",
+                            "isVideo":false
+                        }
+                    ],
+                    "technologies":[
+                        "Node.JS",
+                        "React.JS"
+                    ]
+                },
+                {
+                    "title":"Moteur physique",
+                    "github":"https://github.com/TanguyHardelin/Game_engine.git",
+                    "spaceSize":7,
+                    "subTitle":"",
+                    "imgSrc":"/images/Game_engine/Game_engine_2_blob.png",
+                    "descriptionShort":"Moteur de jeux programmé “from scratch” en C++. Ce moteur de jeux intègre un moteur physique gérant les interactions de bases comme la gestion des collisions en utilisant des octrees et des volumes englobants, les différents types de ressorts, la gestion de la gravité et des frottements etc …",
+                    "description":"Moteur de jeux programmé “from scratch” en C++. Ce moteur de jeux intègre un moteur physique gérant les interactions de bases comme la gestion des collisions en utilisant des octrees et des volumes englobants, les différents types de ressorts, la gestion de la gravité et des frottements etc … Ce moteur de jeux intègre également le rendu des formes de base comme les cubes, les sphères, les plans, etc…",
+                    "mediaList":[
+                        {
+                            "src": "/images/Game_engine/Game_engine_2_blob.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/Game_engine/Game_engine_1.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/Game_engine/Game_engine_3.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/Game_engine/Game_engine_4.png",
+                            "isVideo":false
+                        }
+                    ],
+                    "technologies":[
+                        "C++",
+                        "OpenGL"
+                    ]
+                },
+                {
+                    "title":"The Legacy of Tez",
+                    "github":"https://github.com/TanguyHardelin/The_legacy_of_Tez.git",
+                    "spaceSize":1,
+                    "subTitle":"",
+                    "imgSrc":"/images/The_legacy_of_Tez/icon.png",
+                    "descriptionShort":"Ce jeu se situe dans un monde ouvert généré procéduralement où le joueur contrôle un personnage. Ce jeux est constitué de deux phases, une phase d’exploration et une phase de gestion. La première phase place le joueur dans un monde généré de manière procédural comportant différents biomes (forêts, plaines, marais) où il peut récolter différentes ressources  comme le bois, la pierre ou l’or. ",
+                    "description":"Ce jeu se situe dans un monde ouvert généré procéduralement où le joueur contrôle un personnage. Ce jeux est constitué de deux phases, une phase d’exploration et une phase de gestion. La première phase place le joueur dans un monde généré de manière procédural comportant différents biomes (forêts, plaines, marais) où il peut récolter différentes ressources  comme le bois, la pierre ou l’or. Le joueur peut également utiliser son épée pour se battre contre les monstres peuplant l’environnement, tels que des animaux sauvages ou d’autres créatures fantastiques. Cela lui rapporte de l’or, et permet de renforcer ses capacités telles que sa puissance d’attaque ou sa défense. Il peut également développer les bâtiments de son village natal en dépensant les ressources acquises lors de l’exploration, dans un mode de gestion. Cela lui permet à la fois d’augmenter ses capacités, mais également la production automatique de ressources, ou le déblocage de nouvelles zones à explorer.",
+                    "mediaList":[
+                        {
+                            "src": "https://www.youtube.com/embed/-Th1VLOZqJo",
+                            "isVideo":true
+                        }
+                    ],
+                    "technologies":[
+                        "Unity3D",
+                        "Blender",
+                        "Asset forge"
+                    ]
+                },
+                {
+                    "title":"BonApp",
+                    "spaceSize":8,
+                    "subTitle":"",
+                    "github":"https://github.com/TanguyHardelin/BonApp_-_Generateur_de_Recettes.git",
+                    "imgSrc":"/images/BonApp/icon.png",
+                    "descriptionShort":"Nous avons tous dans notre réfrigérateur ou nos placards différents produits dont nous ne savons pas que faire. Comment les utiliser avant qu’ils ne périment et en réalisant de bons plats ? BonApp permet de renouveler ses idées de cuisine mais apparaît aussi comme un moyen de réduire le gaspillage alimentaire. Ces aliments, qui ne seront pas perdus, peuvent par exemple être en limite de péremption ou tout simplement être des aliments qu’on oublie et dont nous avons pas pensé à utiliser dans une recette.",
+                    "description":"Nous avons tous dans notre réfrigérateur ou nos placards différents produits dont nous ne savons pas que faire. Comment les utiliser avant qu’ils ne périment et en réalisant de bons plats ? BonApp permet de renouveler ses idées de cuisine mais apparaît aussi comme un moyen de réduire le gaspillage alimentaire. Ces aliments, qui ne seront pas perdus, peuvent par exemple être en limite de péremption ou tout simplement être des aliments qu’on oublie et dont nous avons pas pensé à utiliser dans une recette. Pour réduire ce gaspillage BonApp propose à ses utilisateurs de renseigner le contenu de leurs placard / frigos. Une fois ces informations renseignées, l’application tous les jours propose à l’utilisateur des recettes issues de ces ingrédients. Ce fonctionnement permet de ne pas laisser d'ingrédients de côté tout en permettant à l’utilisateur de manger de bon petits plats.",
+                    "mediaList":[
+                        {
+                            "src": "/images/BonApp/icon.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/BonApp/home.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/BonApp/recipe.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/BonApp/inventory.png",
+                            "isVideo":false
+                        }
+                    ],
+                    "technologies":[
+                        "Android studio",
+                        "PHP",
+                        "MYSQL",
+                        "Python"
+                    ]
+                },
+                {
+                    "title":"WallpaperManager",
+                    "github":"https://github.com/TanguyHardelin/WallpaperManager.git",
+                    "spaceSize":7,
+                    "subTitle":"",
+                    "imgSrc":"/images/WallpaperManager/main_windows.png",
+                    "descriptionShort":"Application de bureau, récupérant chaque jour de nouveaux fonds d’écrans depuis internet. Une fois le fond d’écran choisi celui-ci est synchronisé sur les différents PC de l ‘utilisateur.",
+                    "description":"Application de bureau, récupérant chaque jour de nouveaux fonds d’écrans depuis internet. Une fois le fond d’écran choisi celui-ci est synchronisé sur les différents PC de l ‘utilisateur.",
+                    "mediaList":[
+                        {
+                            "src": "/images/WallpaperManager/main_windows.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/WallpaperManager/all_background.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/WallpaperManager/global.png",
+                            "isVideo":false
+                        },
+                        {
+                            "src": "/images/WallpaperManager/global_with_all_background.png",
+                            "isVideo":false
+                        }
+                    ],
+                    "technologies":[
+                        "Android studio",
+                        "PHP",
+                        "MYSQL",
+                        "C++",
+                        "Python"
+                    ]
+                }
+                
+              ]
+            ]
+    
+        },
+        "en":{
+            
+        }
+    },
+    "Skills":{
+        "fr":{
+            "title":"Compétences",
+            "cathegories":[
+                {
+                    "title":"Informatique",
+                    "iconBW":"computerSienceIconBW",
+                    "iconColor":"computerSienceIconColor",
+                    "skill":[
+                        {
+                            "title":"Général",
+                            "list":[
+                                "Maîtrise des langages Python, C ,C++, C#, Java, HTML, CSS, Javascript et typescript.",
+                                "Maîtrise d'UML.",                            
+                                "Programmation système.",
+                                "Programmation sur architectures parallèles."
+                            ]
+                        },
+                        {
+                            "title":"Web",
+                            "list":[
+                                "Maîtrise de HTML, CSS, Javascript, typescript.",
+                                "Maîtrise de Bootstrap.",
+                                "Maîtrise de Node.JS et de PHP.",
+                                "Gestion des bases de données SQL.",
+                                "Maîtrise du framework React.",
+                                "GIMP."
+                            ]
+                        },
+                        {
+                            "title":"Jeux vidéos",
+                            "list":[
+                                "Maîtrise des moteurs de jeux Unity et d’unreal engine.",
+                                "Programmation d’applications de réalité virtuelle pour Oculus Rift et HTC Vive.",
+                                "Programmation de moteurs physiques.",
+                                "Notion de blender."
+                            ]
+                        },
+                        {
+                            "title":"Intelligence artificielle",
+                            "list":[
+                                "Machine learning & Deep learning.",
+                                "Réseaux de neurones convolutifs.",
+                                "Apprentissage par renforcement.",
+                                "Vision par ordinateur.",
+                                "Maîtrise de Tensorflow et Keras.",
+                                "Maîtrise de Weka.",
+                                "Système multi-agents."
+                            ]
+                        },
+                        {
+                            "title":"Logiciels",
+                            "list":[
+                                "Maîtrise de MatLab et Scilab.",
+                                "Programmation avec Qt, Visual-Studio, Android-Studio, Eclipse. ",
+                                "Maîtrise des logiciels de versionning (Git et github).",
+                                "Maîtrise de Windows ainsi que des systèmes Unix (principalement Ubuntu et Archlinux).",
+                                "Maîtrise de la suite office."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Electronique",
+                    "iconBW":"electronicsIconBW",
+                    "iconColor":"electronicsIconColor",
+                    "skillTitle":"Principales compétences: ",
+                    "skill":[
+                        {
+                            "title":"Conception de circuits électroniques",
+                            "list":[
+                                "Conception de circuits électroniques analogiques et numériques",
+                                "Electronique de puissance.",
+                                "Asservissement analogique et numérique."
+                            ]
+                        },
+                        {
+                            "title":"Embarqué",
+                            "list":[
+                                "Programmation sur processeur ARM7 et Cortex 9, ainsi que la gestion des périphériques.",
+                                "Programmation sur arduino et raspberry Pi.",
+                                "Connaissances dans les liaisons séries I2C et RS232."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Mécatronique",
+                    "iconBW":"mecatronicsIconBW",
+                    "iconColor":"mecatronicsIconColor",
+                    "skillTitle":"Principales compétences: ",
+                    "skill":[
+                        {
+                            "title":"Conception mécanique",
+                            "list":[
+                                "Conception assistée par ordinateur.",
+                                "Connaissances en dessin industriel ainsi qu'en conception mécanique.",
+                                "Mise en équation des systèmes physiques."
+                            ]
+                        },
+                        {
+                            "title":"Automatique",
+                            "list":[
+                                "Connaissances dans la sécurité des systèmes automatisés.",
+                                "Conception et programmation des modes de  marche d'un système automatisé de production, ainsi que de sa supervision à l’aide du logiciel PcVue.",
+                                "Programmation de l'automate SchneiderM340 avec le logiciel Unity Pro."
+                                
+                            ]
+                        },
+                        {
+                            "title":"Autres",
+                            "list":[
+                                "Dynamique / Cinématique.",
+                                "Notions en résistance des matériaux ainsi qu'en thermique."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title":"Langues",
+                    "iconBW":"languageBW",
+                    "iconColor":"languageColor",
+                    "skillTitle":"Principales compétences: ",
+                    "skill":[
+                        {
+                            "title":"Français",
+                            "list":[
+                                "Courant"
+                            ]
+                        },
+                        {
+                            "title":"Anglais",
+                            "list":[
+                                "Intermédiaire"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "en":{
+            
+        }
+    }
+}
